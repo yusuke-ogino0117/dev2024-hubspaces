@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+#org_side_box_in{
+  word-break: break-all;
+}
+
+#acf-group_5f7c192ad780f .acf-field-number{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+#acf-group_5f7c192ad780f .acf-field-number .acf-label{
+  margin-bottom: 0;
+}

@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+#screen-meta-links,
+.wrap .wp-heading-inline,
+.wrap .page-title-action,
+.wrap .search-box,
+.wrap .subsubsub,
+.wrap .tablenav{
+  display: none;
+}
